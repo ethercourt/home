@@ -1,4 +1,4 @@
-baseurl: 'https://ethercourt.github.io/home/'
+baseurl: "https://ethercourt.github.io/home/"
 permalink: pretty
 title: 'Jekyll Serif'
 
